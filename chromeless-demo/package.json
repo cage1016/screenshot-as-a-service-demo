@@ -1,0 +1,14 @@
+{
+  "name": "chromeless-demo",
+  "version": "1.0.0",
+  "description": "screeenshot as a service: chromeless-aws-lambda",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KAI CHU CHUNG <cage.chung@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chromeless": "^1.3.0"
+  }
+}

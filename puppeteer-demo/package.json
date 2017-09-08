@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer-demo",
+  "version": "0.1.0",
+  "description": "screenshot as a service: puppetter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "puppeteer": "^0.10.2"
+  },
+  "author": "KAI CHU CHUNG <cage.chung@gmail.com>",
+  "license": "MIT"
+}
